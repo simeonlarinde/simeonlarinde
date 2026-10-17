@@ -53,3 +53,5 @@ AWS Certified Solutions Architect Associate · AWS Machine Learning Foundations 
 **Get in touch**
 
 [Email](mailto:simeon.larinde@uri.edu) · [LinkedIn](https://www.linkedin.com/in/simeon-larinde/) · [Website](https://simeonlarinde.com)
+<br>
+![Profile views](https://komarev.com/ghpvc/?username=simeonlarinde&style=flat-square&color=252521&label=Profile+views)
