@@ -11,7 +11,7 @@ I study Computer Science, Applied Mathematics, and French at the [University of 
 **Before this**
 
 - Cloud Infrastructure Engineer Intern at [URI CITI](https://its.uri.edu/citi/): Apache Airflow integrations, Grafana monitoring and GenAI usage analytics
-- AI Engineer Intern through the [AWS AI & ML Scholars](https://aws.amazon.com/about-aws/our-impact/scholars/) program: generative AI on SageMaker and RAG pipelines with Bedrock
+- AI Engineer Intern at [AWS](https://aws.amazon.com/about-aws/our-impact/scholars/): Generative AI on SageMaker and RAG pipelines with Bedrock
 - Technical Solutions Engineer Intern at [URI CITI](https://its.uri.edu/citi/): Internal Tools, API Integrations and Cloud Security for the university's IT Staff
 
 **Tools I use**
