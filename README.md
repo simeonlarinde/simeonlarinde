@@ -1,6 +1,6 @@
-### Hi, I'm Simeon 👋
+### Hi, I'm Simeon 👋🏾
 
-I study Computer Science, Applied Mathematics, and French at the [University of Rhode Island](https://www.uri.edu/). I research how people understand, use and evaluate AI systems.
+I study Computer Science, Applied Mathematics, and French at the [University of Rhode Island](https://www.uri.edu/). I research how people understand, use, and evaluate AI systems.
 
 **Right now**
 
